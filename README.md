@@ -15,5 +15,4 @@
 ## GitHub Trophies 🏆
 ![](https://github-profile-trophy.vercel.app/?username=bibliophilecoder&theme=react&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://komarev.com/ghpvc/?username=bibliophilecoder&icon=5&color=1)](https://visitcount.itsvg.in)
+
